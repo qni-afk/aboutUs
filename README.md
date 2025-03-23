@@ -1,5 +1,4 @@
-# aboutUs
-# 💫 About Me:
+💫 About Me:
 Hi! I’m 19 years old, and I’m a beginner frontend developer. I love creating websites and web applications. My skills are HTML, CSS, JavaScript, and React. I enjoy writing code for web apps the most because I like making things look beautiful and work smoothly.<br><br>I’m a very visual person — for me, design and colors are super important. I always focus on how a website looks and feels to users. When I work, I try to combine creativity with clean code.<br><br>Right now, I’m learning new things every day and improving my skills. I’m excited to build more cool projects in the future! 🚀
 
 
